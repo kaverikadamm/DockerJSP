@@ -1,5 +1,5 @@
 #Use official OpenJDK base image
-FROM openjdk:latest
+FROM openjdk:17
 
 #Set working directory
 WORKDIR /app
